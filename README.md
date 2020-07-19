@@ -21,8 +21,6 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
 ![TippyGif](https://user-images.githubusercontent.com/49815957/87880061-98a1da00-c9bc-11ea-9bec-e5b9502fe128.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
