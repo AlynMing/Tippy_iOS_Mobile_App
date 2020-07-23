@@ -31,14 +31,6 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 | ------------- | ------------- |---------------|
 | ![Tippy1](https://user-images.githubusercontent.com/49815957/87888494-2f8d8700-c9fb-11ea-9251-ee1eb70ccd52.jpg)  | ![Tippy2](https://user-images.githubusercontent.com/49815957/87888496-33210e00-c9fb-11ea-9e01-9654e87a293f.jpg)  | ![Tippy3](https://user-images.githubusercontent.com/49815957/87888501-36b49500-c9fb-11ea-82c4-2260a0d973a3.jpg)
 
-
-![Tippy1](https://user-images.githubusercontent.com/49815957/87888494-2f8d8700-c9fb-11ea-9251-ee1eb70ccd52.jpg)
-
-![Tippy2](https://user-images.githubusercontent.com/49815957/87888496-33210e00-c9fb-11ea-9e01-9654e87a293f.jpg)
-
-![Tippy3](https://user-images.githubusercontent.com/49815957/87888501-36b49500-c9fb-11ea-82c4-2260a0d973a3.jpg)
-
-
 ## Notes
 
 Challenges: The keyboard doesn't show up even though I added the Decimal tap to the keyboard type in the textbox
@@ -47,14 +39,3 @@ Challenges: The keyboard doesn't show up even though I added the Decimal tap to 
 
     Copyright 2020 Maria Shehata
 
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-        http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
