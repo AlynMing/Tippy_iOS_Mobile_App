@@ -23,17 +23,11 @@ Here's a walkthrough of implemented user stories:
 
 ![TippyGif](https://user-images.githubusercontent.com/49815957/87880061-98a1da00-c9bc-11ea-9bec-e5b9502fe128.gif)
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
 
 ## App Screens
 | Enter the bill!  | calculates the tip | settings screen |
 | ------------- | ------------- |---------------|
 | ![Tippy1](https://user-images.githubusercontent.com/49815957/87888494-2f8d8700-c9fb-11ea-9251-ee1eb70ccd52.jpg)  | ![Tippy2](https://user-images.githubusercontent.com/49815957/87888496-33210e00-c9fb-11ea-9e01-9654e87a293f.jpg)  | ![Tippy3](https://user-images.githubusercontent.com/49815957/87888501-36b49500-c9fb-11ea-82c4-2260a0d973a3.jpg)
-
-## Notes
-
-Challenges: The keyboard doesn't show up even though I added the Decimal tap to the keyboard type in the textbox
 
 ## License
 
