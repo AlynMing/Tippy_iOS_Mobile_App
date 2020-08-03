@@ -1,11 +1,11 @@
 # Tippy_iOS_Mobile_App
 # Pre-work - *Tippy*
 
-:sparkles: **Tippy** :sparkles: is a tip calculator application for iOS.
+:sparkles: **Tippy** :sparkles:  is a tip calculator application for iOS.
 
 Submitted by: **Maria Shehata**
 
-Time spent: **1.5** hours spent in total
+Time spent: **1.5** hours spent in \\total\\
 
 ## User Stories
 
