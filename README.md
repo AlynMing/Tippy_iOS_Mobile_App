@@ -11,10 +11,10 @@ Time spent: **1.5** hours spent in total
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [ ] Settings page to change the default tip percentage.
-* [ ] Remembering the bill amount across app restarts (if <10mins)
-* [ ] Using currency thousands separators.
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] Settings page to change the default tip percentage.
+* [x] Remembering the bill amount across app restarts (if <10mins)
+* [x] Using currency thousands separators.
  Just launch the app and start typing.
 
 ## Video Walkthrough 
