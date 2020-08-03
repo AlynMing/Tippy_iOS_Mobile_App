@@ -1,7 +1,7 @@
 # Tippy_iOS_Mobile_App
 # Pre-work - *Tippy*
 
-**Tippy** is a tip calculator application for iOS.
+:sparkles: **Tippy** :sparkles: is a tip calculator application for iOS.
 
 Submitted by: **Maria Shehata**
 
@@ -9,7 +9,7 @@ Time spent: **1.5** hours spent in total
 
 ## User Stories
 
-The following **required** functionality is complete:
+The following functionality is complete:
 
 * [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 * [x] Settings page to change the default tip percentage.
