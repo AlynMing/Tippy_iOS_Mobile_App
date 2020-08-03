@@ -1,5 +1,5 @@
 # Tippy_iOS_Mobile_App
-# Pre-work - *Tippy*
+# Tippy
 
 :sparkles: **Tippy** :sparkles:  is a tip calculator application for iOS.
 
